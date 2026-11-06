@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoReels</string>
+    <string name="accessibility_description">NoReels reads which app and screen are open to detect YouTube Shorts, Instagram Reels, Facebook Reels, Snapchat Spotlight and TikTok, so it can enforce your session and daily limits. Nothing leaves your phone.</string>
+</resources>
